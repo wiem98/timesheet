@@ -27,7 +27,8 @@ public class Contrat implements Serializable {
 	private Long reference;
 	
 	private string type ;
-	
+	//modication 
+	//2222
 	@Temporal(TemporalType.DATE)
 	private Date dateDebut;
 	 
