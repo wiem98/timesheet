@@ -29,6 +29,7 @@ public class Contrat implements Serializable {
 	private string type ;
 	//modication 
 	//2222
+	//modification ligne 32
 	@Temporal(TemporalType.DATE)
 	private Date dateDebut;
 	 
